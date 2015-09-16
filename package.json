@@ -28,7 +28,7 @@
     ],
 
     "dependencies": {
-        "msgpack": "https://github.com/mog422/msgpack-node.git#598fc47c49aa9e3623a3756b388214223459cbc0",
+        "msgpack": "https://github.com/sutoiku/node-msgpack.git",
         "underscore": "1.3.3",
         "node-uuid": "1.3.3",
         "zmq": "2.13.0"
